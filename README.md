@@ -1,6 +1,6 @@
 # Coursera Deep Learning Specialization — Revision Notes (Andrew Ng)
 
-Concise, exam-focused revision notes for all 5 courses of the Deep Learning Specialization by Andrew Ng on Coursera.
+Concise, detailed study notes for all 5 courses of the Deep Learning Specialization by Andrew Ng on Coursera.
 
 **Course:** Deep Learning Specialization  
 **Offered by:** Coursera — DeepLearning.AI  
